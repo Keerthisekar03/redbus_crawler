@@ -1,0 +1,6 @@
+Installing the requirements
+    pip install -r requirements.txt
+Configure your database in redbus_streamlit.py file
+    Project contains both mysql and postgres connectors
+Running the project
+     streamlit run redbus_streamlit.py
