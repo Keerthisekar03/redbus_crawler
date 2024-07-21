@@ -1,6 +1,7 @@
 Python:
 
 •	Python is a widely used general-purpose, high level programming language.
+
 •	It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code.
 
 Import :
