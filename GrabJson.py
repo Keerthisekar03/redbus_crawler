@@ -37,7 +37,6 @@ header = {
 start_time = default_timer()
 _currentDate = datetime.datetime.today()
 
-# path = r"C:\Users\mukilan\Desktop\Data\\" + str(datetime.datetime.today().day) + "-" + str(datetime.datetime.today().month) + ".json"
 path = r"/home/edexadm/learn/projects/redbusgrabber/data/" + str(datetime.datetime.today().day) + "-" + str(datetime.datetime.today().month) + ".json"
 
 with open(path, "a") as f:  
